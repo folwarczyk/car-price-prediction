@@ -36,7 +36,7 @@ Despite some challenges related to data quality and bias, the model was successf
 ---
 ## Running the Project
 
-To run the project, you'll need Python along with several packages including Pandas, Numpy, Sklearn, and others. The main code for the project can be found in the Jupyter Notebook file you can find in the jupyter-notebook directory: `car-price-prediction.ipynb`.
+To run the project, you'll need Python along with several packages including Pandas, Numpy, Sklearn, and others. The main code for the project can be found in the Jupyter Notebook file in the jupyter-notebook directory: `car-price-prediction.ipynb`.
 
 Clone the repository, install the necessary packages, and then you can run the notebook file in a Jupyter Notebook environment. Please make sure you have the required dataset available in your local directory for the notebook to access.
 
