@@ -19,7 +19,7 @@ An iterative approach to building the model was used, where the model and its hy
 
 The best model achieved an R^2 score between 80-82%, which indicates a fairly good fit to the data.
 
-![R^2](images/predicted-data-visualization/r2.png)
+![R^2](images/predicted-data-visualization/r2.PNG)
 
 ![Predicted Visualization](images/predicted-data-visualization/predicted4.png)
 
